@@ -1,6 +1,3 @@
-# IBM-Project-43114-1660713040
-Smart Waste Management System For Metropolitan Cities
-## ![image link](https://github.com/Arunprasath2002/Smart-Waste-Management-System-For-Metropolitan-Cities/blob/main/repository-open-graph-template.png)
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
