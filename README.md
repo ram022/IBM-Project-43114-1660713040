@@ -44,8 +44,13 @@
   
   <p align="center">
     <h2>Smart Waste Management System For Metropolitan Cities</h2>
-  <strong>Team ID: t/strong>
-  <strong>Technology: </strong>
+   <br />
+  <video src="https://user-images.githubusercontent.com/77039988/193444961-828072b4-6f8b-417a-9a76-8bc23fe0a6bb.mp4" data-canonical-src="https://user-images.githubusercontent.com/77039988/193444961-828072b4-6f8b-417a-9a76-8bc23fe0a6bb.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
+
+  </video>
+  <p dir="auto">TECHNOLOGY : <strong>IOT</strong><br>
+    TEAM ID :<strong> PNT2022TMID47156</strong> </p>
+     <br />
     <br />
     <a href="https://github.com/IBM-EPBL/IBM-Project-43114-1660713040"><strong>Explore the docs »</strong></a>
     <br />
