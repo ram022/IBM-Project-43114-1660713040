@@ -44,6 +44,8 @@
   
   <p align="center">
     <h2>Smart Waste Management System For Metropolitan Cities</h2>
+  <strong>Team ID: t/strong>
+  <strong>Technology: </strong>
     <br />
     <a href="https://github.com/IBM-EPBL/IBM-Project-43114-1660713040"><strong>Explore the docs »</strong></a>
     <br />
