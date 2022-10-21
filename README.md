@@ -30,11 +30,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Arunprasath2002/Smart-Waste-Management-System-For-Metropolitan-Cities/blob/main/IBM_logo.svg.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">IBM-Project-43114-1660713040</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
