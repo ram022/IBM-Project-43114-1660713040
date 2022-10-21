@@ -34,10 +34,16 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">IBM-Project-43114-1660713040</h3>
-
+  <h1 align="center">IBM-Project-43114-1660713040</h1>
+  
+  <br />
+<div align="center">
+  <a href="https://github.com/Arunprasath2002/Smart-Waste-Management-System-For-Metropolitan-Cities/blob/main/smart%20waste%20management%20for%20metropolitan%20cities.jpg">
+    <img src="images/logo.png" alt="Logo" width="320" height="128">
+  </a>
+  
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    <h2>Smart Waste Management System For Metropolitan Cities</h2>
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
