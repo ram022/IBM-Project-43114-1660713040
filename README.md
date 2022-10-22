@@ -40,7 +40,7 @@
   <br />
 <br />
 <div align="center">
-<img src="https://github.com/Arunprasath2002/Smart-Waste-Management-System-For-Metropolitan-Cities/blob/main/smart%20waste%20management%20for%20metropolitan%20cities.jpg" alt="Logo" width="700" height="420" style="max-width: 100%;">
+<img src="https://github.com/Arunprasath2002/Smart-Waste-Management-System-For-Metropolitan-Cities/blob/main/smart%20waste%20management%20for%20metropolitan%20cities.jpg" alt="Logo" width="700" height="400" style="max-width: 100%;">
   </a>
  
 
