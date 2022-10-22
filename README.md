@@ -46,8 +46,7 @@
 
   <p align="center">
     <h1>Smart Waste Management System For Metropolitan Cities</h1>
-   <video 
- <h2>Category : <strong>Internet Of Things</strong> </h2>
+   <h2>Category : <strong>Internet Of Things</strong> </h2>
   <h2>Team ID : <strong>PNT2022TMID47156</strong></h2>
   <h2>Team size : <strong>4</strong></h2>
       <p>Team leader : <strong>ARUNPRASATH P</strong></p>
