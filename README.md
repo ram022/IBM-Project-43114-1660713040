@@ -134,6 +134,7 @@
 * (Prerequisites, Registrations,
 Environment Set-up, etc.)
 
+_For more information, please refer to the [preparation phase](https://github.com/IBM-EPBL/IBM-Project-43114-1660713040/tree/main/preparation%20phase)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -145,7 +146,7 @@ Environment Set-up, etc.)
 Survey, Empathize, Defining
 Problem Statement, Ideation)
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [ideation phase](https://github.com/IBM-EPBL/IBM-Project-43114-1660713040/tree/main/Ideation%20Phase)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,7 +157,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 * Proposed Solution, ProblemSolution Fit, Solution Architecture)
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [project design phase 1](https://github.com/IBM-EPBL/IBM-Project-43114-1660713040/tree/main/PROJECT%20DESIGN%20PHASE%201) for a full list of proposed features (and known design).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,6 +170,8 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 Journey, Data Flow Daigrams,
 Technology Architecture)
 
+See the [project design phase 2](https://github.com/IBM-EPBL/IBM-Project-43114-1660713040/tree/main/PROJECT%20DESIGN%20PHASE%202)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -178,6 +181,8 @@ Technology Architecture)
 
 * (Milestones & Tasks, Sprint
 Schedules )
+
+ [project planning phase](https://github.com/IBM-EPBL/IBM-Project-43114-1660713040/tree/main/project%20planning%20phase)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -192,6 +197,8 @@ Schedules )
 
 * (Coding & Solutioning, Acceptance
 Testing, Performance Testing)
+
+[Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-43114-1660713040/tree/main/project%20development%20phase)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
