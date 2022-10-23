@@ -46,6 +46,11 @@
 
   <p align="center">
     <h1>Smart Waste Management System For Metropolitan Cities</h1>
+    <video src="https://user-images.githubusercontent.com/114855932/197398151-8f971945-c7da-4286-9b66-31cb02a43abf.mp4" data-canonical-src="https://user-images.githubusercontent.com/114855932/197398151-8f971945-c7da-4286-9b66-31cb02a43abf.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
+
+  </video>
+     <br />
+    <div align="left">
    <h2>Category : <strong>Internet Of Things</strong> </h2>
   <h2>Team ID : <strong>PNT2022TMID47156</strong></h2>
   <h2>Team size : <strong>4</strong></h2>
@@ -53,6 +58,7 @@
       <p>Team member : <strong>BHARANIDHARAN R</strong></p>
       <p>Team member : <strong>AJAY R</strong></p>
       <p>Team member : <strong>ANUSHPRIYARANJAN A K</strong></p>
+   <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
