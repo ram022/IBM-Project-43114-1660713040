@@ -112,7 +112,7 @@
 * IOT Cloud Platform 
 * IBM Cloud,Node- RED
 * IBM IoT Platform
-* IBM Nodered
+* IBM Node-Red
 * IBM Cloudant DB
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
